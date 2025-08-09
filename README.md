@@ -1,7 +1,7 @@
 # Smart Agriculture – IoT Based Farming Solution
 
 *Developer:* Juthuka Naina  
-*Year:* 2025  
+*Year:* 2024
 
 ---
 
